@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+	color:white;
+    text-align: center;
+    border-style: double;
+    border-color:white; 
+}
+body {
+background-color: #d9b3ff
+
+}
+p {
+  color: white;
+  
+</style>
+</head>
+<body>
+
+
+
+
+<h1>Womens Rights</h1>
+<p>Womens Right is working toward the realization of women’s empowerment and gender equality protecting the rights and improving the lives of women and girls on the ground. </p>
+
+</body>
+</html>
+
+
